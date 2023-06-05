@@ -1,10 +1,10 @@
 # Flytsim_Docker_Assignment
 FlytBase Assignment for a UAV Systems Engineer role
 
-Assignment Code 1:
+Assignment 1:
 Drone arms, takes-off, flies at an altitube of 5m and travels in a square pattern of side 6.5m, lands and disarms
 
-Assignment Code 2:
+Assignment 2:
 Drone arms, takes-off, flies at an altitude os 10m and travels in a triangular pattern of side 10m, lands and disarms
 
 System used:
